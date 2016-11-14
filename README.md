@@ -21,4 +21,6 @@ pertama-tama bikin database di mysql(bisa dari phpmyadmin, navicat atau mysqlwor
 dan bikin tabelnya dengan nama tb_pegawai
 kolomnya cuman ada dua yaitu kode_pegawai dan nama_pegawai
 
+kalau masik malah bikin tabel dan dummy datanya bisa ke folder db_script untuk import table nya,, udh ada dummynya,,
+
 setelah itu project yang anda clode atau download sudah siap di jalankan,, selamat mengembangkan,,
